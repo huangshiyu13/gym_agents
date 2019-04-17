@@ -6,6 +6,10 @@ Trained Gym Agents!
 
 DQN for Pong-v0
 
+## Usage
+
+Run `python test.py`
+
 ![](./images/test.gif)
 
 ## Training Curves
